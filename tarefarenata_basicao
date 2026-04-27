@@ -12,6 +12,8 @@
     <p><em>Segundo parágrafo em itálico</em></p>
     <p><u>Terceiro parágrafo sublinhado</u></p>
     <p>Como disse Descartes: <q> Penso, logo existo.</q></p>
+ <img src="https://plus.unsplash.com/premium_vector-1758254172211-2126f08477a4?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDM1fHx8ZW58MHx8fHx8" alt="imagem colorida grafite" width="400" height="400">
+
     <p>Se este é o último, este é o <span style="color: blueviolet;">Quinto</span> parágrafo</p>
     <blockquote>"O esforço de hoje é o ganho de amanhã."</blockquote>
 </body>
